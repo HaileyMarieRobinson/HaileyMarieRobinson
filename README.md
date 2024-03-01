@@ -1,6 +1,7 @@
 ### Hi, I'm Hailey 🩵🩵
 ![](me.jpg)
 
+I am a dedicated full-time student at The Northern Alberta Institute of Technology in Edmonton, Alberta. Currently, I am pursuing studies in the Digital Media and Web Design & Development program. Outside of academics, I love spending time with my friends and family, indulge in snowboarding, dirt biking, and exploring new destinations. My aspiration post-graduation is to venture into the realm of UX/UI freelance development, eagerly anticipating the challenges and opportunities it brings.
 
 
 
