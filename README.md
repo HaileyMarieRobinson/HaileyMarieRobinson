@@ -1,5 +1,5 @@
 ### Hi, I'm Hailey 🩵
-![]{me.jpg}
+![]{img/me.jpg}
 
 
 
